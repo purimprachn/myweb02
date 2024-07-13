@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.top-header {
+    background-color: yellowgreen;
+    text-align: center;
+}
+
+.menu-item {
+    color: azure;
+    padding: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+.active {
+    font-size: 20px;
+    font-weight: bolder;
+}
